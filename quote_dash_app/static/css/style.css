@@ -1,0 +1,18 @@
+.like{
+    margin: 5px;
+    width: 500px;
+    display: flex;
+}    
+
+.quote_box{
+    border: 2px solid blue;
+    width: 600px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+p, a{
+    margin: 5px;
+}
+.form{
+    margin-bottom: 50px;
+}
